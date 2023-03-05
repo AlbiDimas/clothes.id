@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>original quzzy &#8211; Clothes.id</title>
+	<atom:link href="https://albidimas.github.io/clothes.id/product-tag/original-quzzy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://albidimas.github.io/clothes.id</link>
+	<description></description>
+	<lastBuildDate>Sun, 05 Mar 2023 11:11:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://albidimas.github.io/clothes.id/wp-content/uploads/2023/03/Screenshot_20230226_131046.png</url>
+	<title>original quzzy &#8211; Clothes.id</title>
+	<link>https://albidimas.github.io/clothes.id</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sweater Original Quzzy</title>
+		<link>https://albidimas.github.io/clothes.id/product/sweater-original-quzzy/</link>
+					<comments>https://albidimas.github.io/clothes.id/product/sweater-original-quzzy/#comments</comments>
+		
+		<dc:creator><![CDATA[dimasalbi]]></dc:creator>
+		<pubDate>Sun, 05 Mar 2023 11:05:08 +0000</pubDate>
+				<guid isPermaLink="false">https://albidimas.github.io/clothes.id/?post_type=product#038;p=71</guid>
+
+					<description><![CDATA[Berat Satuan: 2 kg Kondisi: Baru Special limited collaboration knit by Original Quzzy &#38; Thanksinsomnia. Classic single knit features single knit fabric. Gramasi: 450 Gsm]]></description>
+										<content:encoded><![CDATA[<p>Berat Satuan: 2 kg</p>
+<p>Kondisi: Baru</p>
+<p>Special limited collaboration knit by Original Quzzy &amp; Thanksinsomnia.</p>
+<p>Classic single knit features single knit fabric.</p>
+<p>Gramasi: 450 Gsm</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://albidimas.github.io/clothes.id/product/sweater-original-quzzy/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
